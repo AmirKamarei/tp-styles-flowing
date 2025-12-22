@@ -1,7 +1,7 @@
 
 .tp-rotv_c {
     overflow-y: auto !important;
-    max-height: 75vh;
+    max-height: calc(100vh - 2rem);
 }
 .tp-fldv.tp-fldv-expanded>.tp-fldv_c {
     overflow: visible !important;
@@ -36,4 +36,5 @@
     font-family: Manrope, sans-serif !important;
     font-size: 11px !important;
     letter-spacing: 0.5px !important; 
+
 }
