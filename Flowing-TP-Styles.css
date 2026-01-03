@@ -36,5 +36,9 @@
     font-family: Manrope, sans-serif !important;
     font-size: 11px !important;
     letter-spacing: 0.5px !important; 
-
+}
+.tp-colswv_b {
+    border: 1px solid var(--cnt-bg);
+    border-width: 0.5px;
+    border-radius: 6px;
 }
