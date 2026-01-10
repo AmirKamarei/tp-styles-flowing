@@ -39,6 +39,7 @@
 }
 .tp-colswv_b {
     border: 1px solid var(--cnt-bg);
-    border-width: 0.5px;
+    border-width: 1px;
     border-radius: 6px;
 }
+
